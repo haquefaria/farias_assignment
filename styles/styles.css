@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.full-color {
+    background-color: #dbdaff;
+    }
+
+    /* sec 1 start */
+.ban{
+   display: flex;
+   justify-content: space-between;
+   margin: 0px 150px;
+   padding: 50px;
+   
+
+}
+.nav_title {
+    font-weight: black;
+     font-size: 34px; 
+     color: #4E47FF;
+    
+}
+.signup_button { 
+    background-color: #4E47FF;
+    color: white;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px ;
+    cursor: pointer; 
+}
+.signup_button:hover {
+    background-color: #2720f5;
+} 
+ .container { display: flex;
+    justify-content: center;
+}
+
+.big_title {
+    font-weight: bold;
+    font-size: 65px; 
+    text-align: center;
+   margin: 100px auto;
+    
+}
+.hero_header {
+    background-image: url(../Assets/Hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 560px;
+}
+
+/*sec 1 end*/
