@@ -91,3 +91,72 @@
 }
 
 /*sec 2 end */
+
+/* sec 3 start*/
+  
+.stats-section{
+    background-color: rgba(78, 71, 255, 0.1);
+    max-width: 1140px;
+    height: 350px;
+    margin: 150px auto;
+    border-radius: 8px;
+
+
+}
+.stats-title {
+    font-weight: bold;
+    font-size: 40px;
+    color: #252432;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    }
+.items {
+    display: flex;
+    justify-content: space-around; 
+    text-align: center;
+}
+.item-title {
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+}
+
+.item-des {
+    font-weight: 400px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+/* sec 3 end*/
+
+/*sec 4 start*/
+.cards{ 
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    
+} 
+.card-para{ 
+text-align: center;
+font-weight: bold ;
+font-size: 42px ;
+}
+.cards-info{
+    border: 2px solid #8f8e8e;
+    background-color: #ffffff;
+    border-radius: 7px;
+    box-shadow: 0,0,0,0.5;
+    padding: 25px;
+}
+.card-title{
+    font-weight: 600px ;
+    font-size: 24px;
+    color: black;
+    padding: 15px 0;
+}
+.img-card{
+    border-radius: 50%;
+    padding: 10px 0;
+  
+} 
+/* sec 4 end*/
