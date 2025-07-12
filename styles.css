@@ -52,7 +52,7 @@
     
 }
 .hero_header {
-    background-image: url(../Assets/Hero-bg.png);
+    background-image: url(Assets/Hero-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
